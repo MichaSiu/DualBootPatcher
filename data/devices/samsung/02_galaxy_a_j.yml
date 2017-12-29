@@ -107,7 +107,7 @@
       - /dev/block/platform/13540000.dwmmc0/by-name/CDMA-RADIO
       - /dev/block/platform/13540000.dwmmc0/by-name/RADIO
       
-      - name: Samsung Galaxy J7 2016 (Exynos)
+- name: Samsung Galaxy J7 (2016)
   id: j7xelte
   codenames:
     - j7xelte
