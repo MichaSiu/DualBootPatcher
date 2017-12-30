@@ -111,9 +111,6 @@
   id: j7xelte
   codenames:
     - j7xelte
-    # LineageOS & RR 5.8 unOFC 
-    - lineage_j7xelte
-    
   architecture: arm64-v8a
 
   block_devs:
